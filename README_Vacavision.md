@@ -1,4 +1,4 @@
-# Vacavision – Detección y Tracking de Vacas 🐄
+# Vacavision – Detección y Tracking de Vacas
 
 ## Descripción
 Pipeline completo de detección de acciones de vacas (`Comiendo`, `Bebiendo`, `Echada`, `Pie`) usando **YOLOv8 + Norfair**, más un panel interactivo de análisis en **Streamlit**.
@@ -11,7 +11,7 @@ Este proyecto permite detectar, seguir y analizar el comportamiento de hasta dos
 
 1. **Clonar el repositorio o descomprimir la carpeta:**
    ```bash
-   git clone https://github.com/turepo/vacavision.git
+   git clone https://github.com/rojored7/cow.git
    cd vacavision
    ```
 
