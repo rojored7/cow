@@ -35,7 +35,7 @@ training/*
 !training/train\ copy/
 
 # --- Modelos y pesos ---
-*.pt
+# *.pt
 *.onnx
 *.engine
 *.bin
