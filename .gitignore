@@ -1,0 +1,47 @@
+# --- Carpetas a ignorar ---
+.vscode/
+.venv/
+__pycache__/
+outputs/
+*.egg-info/
+*.pytest_cache/
+*.ipynb_checkpoints/
+*.log
+
+# --- Archivos temporales y de entorno ---
+.env
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
+
+# --- Archivos de video y resultados pesados ---
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.jpg
+*.png
+*.jpeg
+*.csv
+*.xlsx
+
+# --- Dataset YOLO ---
+training/*
+!training/train\ copy/
+
+# --- Modelos y pesos ---
+*.pt
+*.onnx
+*.engine
+*.bin
+
+# --- Configuraciones locales ---
+*.lock
+*.toml
+*.json
+*.yaml

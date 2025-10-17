@@ -1,0 +1,6 @@
+torch>=2.1.0
+ultralytics>=8.0.200
+norfair>=2.2.0
+opencv-python>=4.8.0
+pandas>=2.1.0
+numpy>=1.26.0
